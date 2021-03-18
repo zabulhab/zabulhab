@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zabulhab
-- 👀 I’m interested in ... OOP, databases, game programming
+- 👀 I’m interested in ... OOP, databases, game programming, and learning more about cloud computing and big data
 - 🌱 I’m currently learning ... AWS and .NET
-- 💞️ I’m looking to collaborate on ... anything that catches my eye
+- 💞️ I’m looking to collaborate on ... anything that seems worthwhile and/or fun to help with
 - 📫 How to reach me ... abulhabzena@gmail.com
 
 <!---
